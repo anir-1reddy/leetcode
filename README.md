@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anir-1reddy/leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/anir-1reddy/leetcode/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/anir-1reddy/leetcode/tree/master/0012-integer-to-roman) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anir-1reddy/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/anir-1reddy/leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
