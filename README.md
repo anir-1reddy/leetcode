@@ -86,4 +86,5 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/anir-1reddy/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anir-1reddy/leetcode/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/anir-1reddy/leetcode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
