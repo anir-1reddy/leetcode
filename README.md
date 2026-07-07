@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anir-1reddy/leetcode/tree/master/0148-sort-list) |
+| [1288-remove-covered-intervals](https://github.com/anir-1reddy/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Merge Sort
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/anir-1reddy/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1288-remove-covered-intervals](https://github.com/anir-1reddy/leetcode/tree/master/1288-remove-covered-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
