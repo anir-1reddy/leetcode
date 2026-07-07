@@ -33,6 +33,7 @@
 | [0002-add-two-numbers](https://github.com/anir-1reddy/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/anir-1reddy/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anir-1reddy/leetcode/tree/master/0013-roman-to-integer) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anir-1reddy/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
