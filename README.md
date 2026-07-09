@@ -34,6 +34,7 @@
 | [0002-add-two-numbers](https://github.com/anir-1reddy/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/anir-1reddy/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anir-1reddy/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/anir-1reddy/leetcode/tree/master/0067-add-binary) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anir-1reddy/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anir-1reddy/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -92,9 +93,18 @@
 | [0013-roman-to-integer](https://github.com/anir-1reddy/leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/anir-1reddy/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/anir-1reddy/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/anir-1reddy/leetcode/tree/master/0067-add-binary) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anir-1reddy/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anir-1reddy/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anir-1reddy/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anir-1reddy/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
