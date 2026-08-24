@@ -77,6 +77,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/anir-1reddy/leetcode/tree/master/0207-course-schedule) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -130,4 +131,20 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/anir-1reddy/leetcode/tree/master/1872-stone-game-viii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/anir-1reddy/leetcode/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/anir-1reddy/leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/anir-1reddy/leetcode/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/anir-1reddy/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
