@@ -52,6 +52,7 @@
 | [1288-remove-covered-intervals](https://github.com/anir-1reddy/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1872-stone-game-viii](https://github.com/anir-1reddy/leetcode/tree/master/1872-stone-game-viii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anir-1reddy/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0012-integer-to-roman](https://github.com/anir-1reddy/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anir-1reddy/leetcode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anir-1reddy/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anir-1reddy/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
