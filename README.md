@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/anir-1reddy/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/anir-1reddy/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/anir-1reddy/leetcode/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/anir-1reddy/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/anir-1reddy/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/anir-1reddy/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/anir-1reddy/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anir-1reddy/leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/anir-1reddy/leetcode/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/anir-1reddy/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/anir-1reddy/leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -105,6 +108,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/anir-1reddy/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/anir-1reddy/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/anir-1reddy/leetcode/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -155,6 +159,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/anir-1reddy/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/anir-1reddy/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anir-1reddy/leetcode/tree/master/0207-course-schedule) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
