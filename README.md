@@ -40,6 +40,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anir-1reddy/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anir-1reddy/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anir-1reddy/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anir-1reddy/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anir-1reddy/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anir-1reddy/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anir-1reddy/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
