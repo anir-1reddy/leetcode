@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0542-01-matrix](https://github.com/anir-1reddy/leetcode/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/anir-1reddy/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/anir-1reddy/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/anir-1reddy/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -147,6 +149,7 @@
 | [0013-roman-to-integer](https://github.com/anir-1reddy/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/anir-1reddy/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/anir-1reddy/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anir-1reddy/leetcode/tree/master/0067-add-binary) |
@@ -232,6 +235,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anir-1reddy/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
