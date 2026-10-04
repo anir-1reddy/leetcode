@@ -79,6 +79,7 @@
 | [0022-generate-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0542-01-matrix](https://github.com/anir-1reddy/leetcode/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/anir-1reddy/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/anir-1reddy/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/anir-1reddy/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/anir-1reddy/leetcode/tree/master/1872-stone-game-viii) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/anir-1reddy/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/anir-1reddy/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -156,6 +158,7 @@
 | [0058-length-of-last-word](https://github.com/anir-1reddy/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anir-1reddy/leetcode/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/anir-1reddy/leetcode/tree/master/0127-word-ladder) |
+| [0678-valid-parenthesis-string](https://github.com/anir-1reddy/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/anir-1reddy/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -179,6 +182,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/anir-1reddy/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/anir-1reddy/leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anir-1reddy/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anir-1reddy/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -238,6 +242,7 @@
 | [0020-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/anir-1reddy/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anir-1reddy/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
