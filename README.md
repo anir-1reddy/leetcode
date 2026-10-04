@@ -23,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/anir-1reddy/leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/anir-1reddy/leetcode/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/anir-1reddy/leetcode/tree/master/1288-remove-covered-intervals) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anir-1reddy/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -55,6 +56,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/anir-1reddy/leetcode/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/anir-1reddy/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anir-1reddy/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/anir-1reddy/leetcode/tree/master/0542-01-matrix) |
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0022-generate-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/anir-1reddy/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
