@@ -93,6 +93,7 @@
 | [0020-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anir-1reddy/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/anir-1reddy/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -159,6 +160,7 @@
 | [0067-add-binary](https://github.com/anir-1reddy/leetcode/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/anir-1reddy/leetcode/tree/master/0127-word-ladder) |
 | [0678-valid-parenthesis-string](https://github.com/anir-1reddy/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/anir-1reddy/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -243,6 +245,7 @@
 | [0022-generate-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anir-1reddy/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anir-1reddy/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
