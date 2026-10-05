@@ -124,6 +124,7 @@
 | [0200-number-of-islands](https://github.com/anir-1reddy/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anir-1reddy/leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/anir-1reddy/leetcode/tree/master/0542-01-matrix) |
+| [0785-is-graph-bipartite](https://github.com/anir-1reddy/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -131,6 +132,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/anir-1reddy/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anir-1reddy/leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/anir-1reddy/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -207,11 +209,13 @@
 | [0130-surrounded-regions](https://github.com/anir-1reddy/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anir-1reddy/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anir-1reddy/leetcode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/anir-1reddy/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anir-1reddy/leetcode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/anir-1reddy/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -257,4 +261,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/anir-1reddy/leetcode/tree/master/0056-merge-intervals) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/anir-1reddy/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/anir-1reddy/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
