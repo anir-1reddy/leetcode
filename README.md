@@ -124,6 +124,7 @@
 | [0130-surrounded-regions](https://github.com/anir-1reddy/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anir-1reddy/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anir-1reddy/leetcode/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/anir-1reddy/leetcode/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/anir-1reddy/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
@@ -162,6 +163,7 @@
 | [0058-length-of-last-word](https://github.com/anir-1reddy/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/anir-1reddy/leetcode/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/anir-1reddy/leetcode/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anir-1reddy/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anir-1reddy/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Quicksort
 |  |
 | ------- |
