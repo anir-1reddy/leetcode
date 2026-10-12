@@ -26,6 +26,7 @@
 | [0056-merge-intervals](https://github.com/anir-1reddy/leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/anir-1reddy/leetcode/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/anir-1reddy/leetcode/tree/master/1288-remove-covered-intervals) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anir-1reddy/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anir-1reddy/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Merge Sort
 |  |
@@ -66,6 +67,7 @@
 | [1288-remove-covered-intervals](https://github.com/anir-1reddy/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1872-stone-game-viii](https://github.com/anir-1reddy/leetcode/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anir-1reddy/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anir-1reddy/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anir-1reddy/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anir-1reddy/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -117,6 +119,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anir-1reddy/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anir-1reddy/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Breadth-First Search
@@ -144,6 +147,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anir-1reddy/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -200,6 +204,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anir-1reddy/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anir-1reddy/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/anir-1reddy/leetcode/tree/master/1927-sum-game) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anir-1reddy/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anir-1reddy/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anir-1reddy/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
