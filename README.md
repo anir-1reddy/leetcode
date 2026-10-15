@@ -43,6 +43,7 @@
 | [1872-stone-game-viii](https://github.com/anir-1reddy/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anir-1reddy/leetcode/tree/master/1927-sum-game) |
 | [3524-find-x-value-of-array-i](https://github.com/anir-1reddy/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/anir-1reddy/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anir-1reddy/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anir-1reddy/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/anir-1reddy/leetcode/tree/master/3870-count-commas-in-range) |
@@ -214,6 +215,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anir-1reddy/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anir-1reddy/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anir-1reddy/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/anir-1reddy/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anir-1reddy/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Game Theory
 |  |
