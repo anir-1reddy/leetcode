@@ -73,6 +73,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/anir-1reddy/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anir-1reddy/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anir-1reddy/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anir-1reddy/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anir-1reddy/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/anir-1reddy/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -119,6 +120,7 @@
 | [0127-word-ladder](https://github.com/anir-1reddy/leetcode/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anir-1reddy/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anir-1reddy/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anir-1reddy/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anir-1reddy/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anir-1reddy/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anir-1reddy/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -315,4 +317,12 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/anir-1reddy/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anir-1reddy/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anir-1reddy/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
