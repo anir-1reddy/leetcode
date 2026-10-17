@@ -28,6 +28,7 @@
 | [1288-remove-covered-intervals](https://github.com/anir-1reddy/leetcode/tree/master/1288-remove-covered-intervals) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anir-1reddy/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anir-1reddy/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anir-1reddy/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anir-1reddy/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Merge Sort
 |  |
@@ -77,6 +78,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anir-1reddy/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anir-1reddy/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/anir-1reddy/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anir-1reddy/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anir-1reddy/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anir-1reddy/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anir-1reddy/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -122,6 +124,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anir-1reddy/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anir-1reddy/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anir-1reddy/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anir-1reddy/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anir-1reddy/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anir-1reddy/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
