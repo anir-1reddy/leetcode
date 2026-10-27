@@ -44,6 +44,7 @@
 | [0067-add-binary](https://github.com/anir-1reddy/leetcode/tree/master/0067-add-binary) |
 | [1872-stone-game-viii](https://github.com/anir-1reddy/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anir-1reddy/leetcode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/anir-1reddy/leetcode/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/anir-1reddy/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anir-1reddy/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anir-1reddy/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -204,6 +205,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anir-1reddy/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/anir-1reddy/leetcode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/anir-1reddy/leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anir-1reddy/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anir-1reddy/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anir-1reddy/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
