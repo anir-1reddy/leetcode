@@ -62,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anir-1reddy/leetcode/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/anir-1reddy/leetcode/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/anir-1reddy/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anir-1reddy/leetcode/tree/master/0200-number-of-islands) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/anir-1reddy/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anir-1reddy/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/anir-1reddy/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anir-1reddy/leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -346,4 +348,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anir-1reddy/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anir-1reddy/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
