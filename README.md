@@ -176,6 +176,7 @@
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anir-1reddy/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/anir-1reddy/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anir-1reddy/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/anir-1reddy/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/anir-1reddy/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/anir-1reddy/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 | [0210-course-schedule-ii](https://github.com/anir-1reddy/leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/anir-1reddy/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/anir-1reddy/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/anir-1reddy/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -368,4 +371,8 @@
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/anir-1reddy/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/anir-1reddy/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
