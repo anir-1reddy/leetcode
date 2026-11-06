@@ -32,6 +32,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anir-1reddy/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anir-1reddy/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anir-1reddy/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/anir-1reddy/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anir-1reddy/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anir-1reddy/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anir-1reddy/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -88,6 +89,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/anir-1reddy/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anir-1reddy/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anir-1reddy/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/anir-1reddy/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anir-1reddy/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anir-1reddy/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -148,6 +150,7 @@
 | [0013-roman-to-integer](https://github.com/anir-1reddy/leetcode/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/anir-1reddy/leetcode/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anir-1reddy/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2747-count-zero-request-servers](https://github.com/anir-1reddy/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anir-1reddy/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anir-1reddy/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anir-1reddy/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -408,5 +411,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/anir-1reddy/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anir-1reddy/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
