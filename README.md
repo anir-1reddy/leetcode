@@ -82,6 +82,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/anir-1reddy/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/anir-1reddy/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/anir-1reddy/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/anir-1reddy/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anir-1reddy/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/anir-1reddy/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -182,6 +183,7 @@
 | [0802-find-eventual-safe-states](https://github.com/anir-1reddy/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/anir-1reddy/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/anir-1reddy/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/anir-1reddy/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anir-1reddy/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -193,6 +195,7 @@
 | [0785-is-graph-bipartite](https://github.com/anir-1reddy/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/anir-1reddy/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/anir-1reddy/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/anir-1reddy/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anir-1reddy/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -214,6 +217,7 @@
 | [0835-image-overlap](https://github.com/anir-1reddy/leetcode/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/anir-1reddy/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/anir-1reddy/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/anir-1reddy/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anir-1reddy/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anir-1reddy/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -305,6 +309,7 @@
 | [0802-find-eventual-safe-states](https://github.com/anir-1reddy/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/anir-1reddy/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/anir-1reddy/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/anir-1reddy/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/anir-1reddy/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anir-1reddy/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/anir-1reddy/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -329,6 +334,7 @@
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/anir-1reddy/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anir-1reddy/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
