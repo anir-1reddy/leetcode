@@ -105,6 +105,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anir-1reddy/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anir-1reddy/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anir-1reddy/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anir-1reddy/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anir-1reddy/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anir-1reddy/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anir-1reddy/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -174,6 +175,7 @@
 | [2747-count-zero-request-servers](https://github.com/anir-1reddy/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anir-1reddy/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anir-1reddy/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anir-1reddy/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anir-1reddy/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anir-1reddy/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anir-1reddy/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -273,6 +275,7 @@
 | [2409-count-days-spent-together](https://github.com/anir-1reddy/leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anir-1reddy/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anir-1reddy/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anir-1reddy/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anir-1reddy/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anir-1reddy/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/anir-1reddy/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -339,6 +342,7 @@
 | [1254-number-of-closed-islands](https://github.com/anir-1reddy/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/anir-1reddy/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/anir-1reddy/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anir-1reddy/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anir-1reddy/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/anir-1reddy/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
@@ -437,6 +441,7 @@
 ## Tree
 |  |
 | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/anir-1reddy/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/anir-1reddy/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Shortest Path
 |  |
